@@ -11,7 +11,7 @@ async function run() {
 
     //const html = await page.content();
     //console.log(html);
-
+//ok 
     //const title = await page.evaluate(() => document.title);
     //console.log(title);
 
